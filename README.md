@@ -1,2 +1,3 @@
 # hello-world
-Hello word repo
+
+This is about myself. Trying to learn how to do things properly
